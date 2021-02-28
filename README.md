@@ -1,33 +1,23 @@
-Development is now occurring on the DigiByte-Core repo
-----------------
-As of 2020, development has now moved to the DigiByte-Core organization, under the digibyte repo
-
-You can find more over at https://github.com/digibyte-core/digibyte
-
-What is DigiByte?
+What is Bytecore?
 ----------------
 
-DigiByte (DGB) is a rapidly growing decentralized, global blockchain that was founded in early 2014 with a focus on cyber security, payments & secure communications technologies.
-
-For more information, as well as an immediately useable, binary version of the DigiByte Core software, see https://digibyte.io
+ByteCore (BYX) is a rapidly growing decentralized, global blockchain that was founded in early 2021 with a focus on cyber security, payments & secure communications technologies.
 
 DigiByte FAQ
 -------------
-Launch Date: January 10th, 2014
+Launch Date: Feb 28, 2021
 
 Blockchain Type: Public, Decentralized, UTXO based, Multi-Algorithm
 
-Ticker Symbol: DGB
+Ticker Symbol: BYX
 
-Genesis Block Hash: "USA Today: 10/Jan/2014, Target: Data stolen from up to 110M customers"
+Max Total Supply: 21 Billion Bytecores in 21 Years (2035)
 
-Max Total Supply: 21 Billion DigiBytes in 21 Years (2035)
-
-Current Supply: 11,692,747,373 DGB (April 2019)
+Current Supply: 11,692,747,373 DGB (Feb 2021)
 
 Block Reward Reduction: 1% Monthly
 
-Current Block Reward: 688 DGB (April 2019)
+Current Block Reward: 688 BYX (Feb 2021)
 
 Mining Algorithms: Five individual: SHA256, Scrypt, Odocrypt, Skein & Qubit
 
@@ -43,7 +33,7 @@ Hardforks: 4. DigiShield, MultiAlgo, MultiShield, DigiSpeed
 
 Softforks: 3. SegWit, CSV, NVersionBits
 
-You can mine DigiByte on one of five separate mining algorithms. Each algo averages out to mine 20% of new blocks. This allows for much greater decentralization than other blockchains. An attacker with 99% of of any individual algorithm would still be unable to hardfork the blockchain, making DigiByte much more secure against PoW attacks than other blockchains.
+You can mine Bytecore on one of five separate mining algorithms. Each algo averages out to mine 20% of new blocks. This allows for much greater decentralization than other blockchains. An attacker with 99% of of any individual algorithm would still be unable to hardfork the blockchain, making DigiByte much more secure against PoW attacks than other blockchains.
 
 DigiShield Hardfork: Block 67,200, Feb. 28th, 2014
 
@@ -55,47 +45,46 @@ DigiSpeed Hardfork: Block 1,430,000 Dec. 4th 2015
 
 Odocrypt Hardfork: Block 9,112,320 July 22nd 2019
 
-DigiByte vs Bitcoin
+Bytecore vs Bitcoin
 -------------------
 
-Security: 5 DigiByte mining algorithms vs. 1 Bitcoin mining algorithm.
-DigiByte mining is much more decentralized.
-DigiByte mining algorithms can be changed out in the future to prevent centralization.
+Security: 5 Bytecore mining algorithms vs. 1 Bitcoin mining algorithm.
+Bytecore mining is much more decentralized.
+Bytecore mining algorithms can be changed out in the future to prevent centralization.
 
-Speed: DigiByte transactions occur much faster than Bitcoin transactions.
+Speed: Bytecore transactions occur much faster than Bitcoin transactions.
 1-2 second transaction notifications.
-15 second DigiByte blocks vs. 10 minute Bitcoin blocks.
-DigiByte has 6x block confirmations 1.5 minutes vs. 1 hour with Bitcoin.
+15 second Bytecore blocks vs. 10 minute Bitcoin blocks.
+Bytecore has 6x block confirmations 1.5 minutes vs. 1 hour with Bitcoin.
 
-Transaction Volume: DigiByte can handle many more transactions per second.
+Transaction Volume: Bytecore can handle many more transactions per second.
 Bitcoin can only handle 3-4 transactions per second.
-DigiByte currently can handle 560+ transactions per second.
-The 2015 DigiSpeed hardfork introduced changes that double the capacity of the network every two years.
+Bytecore currently can handle 560+ transactions per second.
 
-Total Supply: More DigiBytes, lower price, more micro transactions, better price stability.
-21 billion DigiBytes will be created over 21 years.
+Total Supply: More Bytecore, lower price, more micro transactions, better price stability.
+21 billion Bytecore will be created over 21 years.
 Only 21 million Bitcoin will be created over 140 years.
-1000:1 ratio. 1000 DigiByte for every Bitcoin.
+1000:1 ratio. 1000 Bytecore for every Bitcoin.
 
 Flexibility: Ability to quickly add new features.
-DigiByte can add new features & upgrades much quicker than Bitcoin.
-Future DigiByte upgrades will push transaction limit to several hundred thousand per second.
+Bytecore can add new features & upgrades much quicker than Bitcoin.
+Future Bytecore upgrades will push transaction limit to several hundred thousand per second.
 
-Marketability & Usability: DigiByte is an easy brand to market to consumers.
-DigiBytes are much cheaper to acquire.
+Marketability & Usability: Bytecore is an easy brand to market to consumers.
+Bytecore are much cheaper to acquire.
 
 License
 -------
 
-DigiByte Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Bytecore Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/digibyte/digibyte/tags) are created
-regularly to indicate new official, stable release versions of DigiByte Core.
+completely stable. [Tags](https://github.com/byte-core/bytecore/tags) are created
+regularly to indicate new official, stable release versions of Bytecore Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
