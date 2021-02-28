@@ -3,7 +3,7 @@ What is Bytecore?
 
 ByteCore (BYX) is a rapidly growing decentralized, global blockchain that was founded in early 2021 with a focus on cyber security, payments & secure communications technologies.
 
-DigiByte FAQ
+Bytecore FAQ
 -------------
 Launch Date: Feb 28, 2021
 
